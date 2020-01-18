@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1522682462 source:d:\pap5\fungsi.c
+	"header.h"
+
+1522682866 d:\pap5\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1522682866 source:d:\pap5\main.c
+	"header.h"
+
+1522683054 source:g:\pap5\fungsi.c
+	"header.h"
+
+1522682868 g:\pap5\header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1522682868 source:g:\pap5\main.c
+	"header.h"
+
